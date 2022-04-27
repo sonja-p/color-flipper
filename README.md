@@ -1,3 +1,3 @@
 # Color Flipper
 
-[Link to project](https://sonja-p.github.io/color-flipper/)
+[Link to the project](https://sonja-p.github.io/color-flipper/)
